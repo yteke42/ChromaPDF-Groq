@@ -96,4 +96,8 @@ The project uses several key libraries:
 
 ## Note
 
-This project requires specific versions of libraries to function correctly. Please use the provided `requirements.txt` file to ensure compatibility. 
+This project requires specific versions of libraries to function correctly. Please use the provided `requirements.txt` file to ensure compatibility.  
+
+## Contact  
+- Yunus Teke - yunus.teke@metu.edu.tr  
+- Atakan Karataş - atakan.karatas@metu.edu.tr
