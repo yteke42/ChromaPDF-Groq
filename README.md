@@ -4,7 +4,8 @@
 
 A PDF chatbot powered by Groq AI and ChromaDB that enables intelligent document Q&A through vector-based search and natural language processing.
 
-This project is a Streamlit-based chatbot application that allows users to upload PDF documents and ask questions about their content. The application uses Groq's AI API for generating responses and ChromaDB for document storage and retrieval.
+This project is a Streamlit-based chatbot application that allows users to upload large PDF documents and ask questions about their content. The application uses Groq's AI API for generating responses and ChromaDB for document storage and retrieval.  
+The application uses streamlit_chroma to chunk the PDF based on relevance, then retrieves the most relevant sections and answers your questions using Groq.
 
 ## Features
 
