@@ -36,8 +36,9 @@ This project is a Streamlit-based chatbot application that allows users to uploa
 Create a `.env` file in the project root directory and add your Groq API key:
 
 ```
-GROQ_API_KEY=your_api_key_here
-```
+GROQ_API_KEY= "your_api_key_here"
+```  
+Your API Key should be written in quotation marks ("")  
 
 ### 3. Installation
 
